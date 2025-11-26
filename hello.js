@@ -1,3 +1,3 @@
 const a=()=>{
-    console.log("hello world");
+    return "hi, How are you?";
 }
