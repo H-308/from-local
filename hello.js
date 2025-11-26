@@ -1,3 +1,3 @@
 const a=()=>{
-    return "hi, How are you?";
+    return 5;
 }
