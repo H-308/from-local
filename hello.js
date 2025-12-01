@@ -3,5 +3,5 @@ const a=()=>{
     return 5;
 }
 const b=()=>{
-    return a()+10;
+    console.log("goodbye world");
 };
